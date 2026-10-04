@@ -4,7 +4,7 @@ import { ErrorBoundary } from '@/components/error-boundary';
 import { Toaster } from '@/components/ui/toaster';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import NotFound from '@/pages/not-found';
-import { ArrowDown, ArrowDownRight, ArrowRight, ArrowUpRight, Github, Menu, X } from 'lucide-react';
+import { ArrowDown, ArrowDownRight, ArrowRight, ArrowUpRight, Github, Instagram, Linkedin, Mail, Menu, X } from 'lucide-react';
 import {
   Route,
   Switch,
@@ -236,8 +236,14 @@ function Home() {
           <div className="reveal relative mx-auto max-w-[1280px] px-5 py-24 sm:px-9 md:py-32">
             <p className="mono mb-5 text-[10px] uppercase tracking-[.23em] text-[#ffe600]">06 / Make contact</p>
             <div className="flex flex-col items-start justify-between gap-10 lg:flex-row lg:items-end">
-              <div><h2 id="contact-title" data-testid="heading-contact" className="display text-[clamp(4rem,10vw,9rem)] font-black uppercase leading-[.78] tracking-[-.04em]">Let’s build<br /><span className="text-[#ffe600]">something.</span></h2><p className="mt-7 max-w-[440px] text-sm leading-6 text-white/55">Find me on GitHub to explore the code, follow what I’m building, or start a conversation around software.</p></div>
-              <a href="https://github.com/kavyjoshi149" target="_blank" rel="noreferrer" data-testid="link-contact-github" className="group inline-flex shrink-0 items-center gap-4 border border-[#ffe600] px-7 py-5 mono text-[11px] uppercase tracking-[.16em] text-[#ffe600] transition-colors hover:bg-[#ffe600] hover:text-[#0c0c0c]"><Github size={18} /> Find me on GitHub <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" /></a>
+              <div><h2 id="contact-title" data-testid="heading-contact" className="display text-[clamp(4rem,10vw,9rem)] font-black uppercase leading-[.78] tracking-[-.04em]">Let’s build<br /><span className="text-[#ffe600]">something.</span></h2><p className="mt-7 max-w-[440px] text-sm leading-6 text-white/55">For opportunities, collaborations, or questions, email me or connect on LinkedIn and Instagram.</p></div>
+              <div className="flex shrink-0 flex-col items-start gap-3">
+                <a href="mailto:kavyjoshi63@gmail.com" data-testid="link-contact-email" className="group inline-flex items-center gap-4 border border-[#ffe600] px-7 py-5 mono text-[11px] uppercase tracking-[.12em] text-[#ffe600] transition-colors hover:bg-[#ffe600] hover:text-[#0c0c0c]"><Mail size={18} /> kavyjoshi63@gmail.com <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" /></a>
+                <div className="flex flex-wrap gap-3">
+                  <a href="https://www.linkedin.com/in/kavy-joshi/" target="_blank" rel="noreferrer" data-testid="link-contact-linkedin" className="inline-flex items-center gap-2 border border-white/25 px-5 py-3 mono text-[10px] uppercase tracking-[.14em] text-white/75 transition-colors hover:border-[#ffe600] hover:text-[#ffe600]"><Linkedin size={15} /> LinkedIn <ArrowUpRight size={13} /></a>
+                  <a href="https://www.instagram.com/j_kavy/" target="_blank" rel="noreferrer" data-testid="link-contact-instagram" className="inline-flex items-center gap-2 border border-white/25 px-5 py-3 mono text-[10px] uppercase tracking-[.14em] text-white/75 transition-colors hover:border-[#ffe600] hover:text-[#ffe600]"><Instagram size={15} /> Instagram <ArrowUpRight size={13} /></a>
+                </div>
+              </div>
             </div>
           </div>
         </section>
