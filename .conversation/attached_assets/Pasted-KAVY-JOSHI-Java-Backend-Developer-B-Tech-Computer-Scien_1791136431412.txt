@@ -1,0 +1,193 @@
+KAVY JOSHI
+
+Java Backend Developer | B.Tech Computer Science Student
+
+Portfolio Content & Personal Brand Reference
+
+1. Personal / Contact Details
+
+Name: Kavy Joshi
+
+Preferred professional title: Java Backend Developer
+
+Location: [Add your preferred city, state, country]
+
+Email: [Add professional email]
+
+Phone: [Add phone number if you want it public]
+
+GitHub: github.com/kavyjoshi149
+
+LinkedIn: [Add LinkedIn URL]
+
+Portfolio: [Add portfolio URL after deployment]
+
+2. Professional Headline Options
+
+Java Backend Developer | Spring Boot | MySQL | REST APIs
+
+B.Tech CSE Student | Java & Spring Boot Developer | Full-Stack & AI Enthusiast
+
+Java Backend Developer building practical web applications with Spring Boot, MySQL, React and AI integrations.
+
+3. About Me
+
+I’m Kavy Joshi, a B.Tech Computer Science student focused on Java backend development. I enjoy building practical web applications using Java, Spring Boot, MySQL, Spring Security, Hibernate and REST APIs. I have developed student-focused platforms such as Notely, a university notes-sharing platform, and contributed to Smilo, a social networking application with image-processing capabilities. I’m also expanding my skills in React, JavaScript, AI integration, system design, cloud technologies and problem solving.
+
+4. Core Skills
+
+Languages: Java, JavaScript, SQL, HTML5, CSS3
+
+Backend: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, JDBC
+
+Frontend: Thymeleaf, React, HTML5, CSS3, JavaScript, Tailwind CSS, Vite
+
+Databases: MySQL, MongoDB
+
+AI / Image Processing: Spring AI, Gemini API, Ollama, OpenCV
+
+Tools: Git, GitHub, GitHub Desktop, IntelliJ IDEA, VS Code, Maven, npm
+
+Currently Learning: AWS / Cloud, DSA, System Design, Node.js, Express.js, Generative AI
+
+5. Featured Projects
+
+NOTELY — University Notes Sharing Platform
+
+Type: Individual Project
+
+Technology: Java, Spring Boot, Spring Security, Hibernate, MySQL, Thymeleaf, HTML, CSS, JavaScript
+
+Developed a university-focused social platform for students to upload, share, and access academic PDF notes.
+
+Integrated Spring Security for application security and user authentication/authorization.
+
+Implemented backend functionality using Spring Boot, Spring Data JPA/Hibernate and MySQL.
+
+Built dynamic web interfaces using Thymeleaf, HTML, CSS and JavaScript.
+
+Designed the application around student-focused note sharing and social interaction.
+
+GitHub: github.com/kavyjoshi149/Notely
+
+SMILO — AI-Powered Social Networking Platform
+
+Type: Team Project / Collaboration
+
+Technology: Java, Spring Boot, MySQL, OpenCV, Spring Security/JWT, HTML, CSS, JavaScript
+
+Designed and developed the complete backend of a social networking application in collaboration with a teammate.
+
+Implemented backend functionality for user connections, thought sharing, image sharing and chat.
+
+Integrated OpenCV for image-processing capabilities, including smile-related image analysis.
+
+Developed backend business logic and API functionality for social networking features.
+
+Worked with database-backed user and social interaction functionality.
+
+GitHub: github.com/kavyjoshi149/Smilo
+
+6. Other Projects
+
+Campus Connext — Student notes/document sharing platform using Spring Boot, MySQL and JPA/Hibernate.
+
+Student Result Viewer — Spring Boot + Thymeleaf application for managing and viewing student results.
+
+Hotel Management System — Java + MySQL + JDBC application demonstrating OOP and database integration.
+
+Employee Payroll System — Java/OOP project for employee and payroll management.
+
+ATM Machine — Java/OOP project implementing basic ATM-style banking operations.
+
+Tenzies — React game project using components, state, hooks and game logic.
+
+Simon Game — HTML, CSS and JavaScript browser game.
+
+To-Do Application — HTML, CSS and JavaScript task-management application.
+
+Music Player — Frontend music-player interface built with web technologies.
+
+7. Development & Learning Focus
+
+Primary focus: Java backend development with Spring Boot.
+
+Building practical full-stack applications with Spring Boot and frontend technologies.
+
+Strengthening React and JavaScript skills.
+
+Learning REST API design, authentication, database architecture and application security.
+
+Exploring AI integration with Java applications through Spring AI and Gemini.
+
+Learning cloud/AWS deployment concepts.
+
+Improving DSA, problem solving and system design fundamentals.
+
+8. Portfolio Sections to Build
+
+Hero — Name, professional title, short tagline and CTA buttons.
+
+About — Short professional introduction and development interests.
+
+Skills — Grouped technical skills rather than a long unstructured list.
+
+Featured Projects — Notely and Smilo with screenshots, tech stack, features and GitHub links.
+
+Other Projects — Smaller projects in a compact grid.
+
+Experience / Education — Add verified college, degree, dates and internship information.
+
+Achievements — Add only verified hackathons, certifications, awards or accomplishments.
+
+Contact — Email, LinkedIn, GitHub and optional contact form.
+
+9. Information Still Needed Before Final Portfolio
+
+Exact college/university name
+
+Expected graduation year
+
+CGPA / percentage, if you want to display it
+
+10th and 12th percentages, if you want to display them
+
+Preferred city/location for the portfolio
+
+Professional email
+
+Phone number (optional)
+
+LinkedIn URL
+
+LeetCode / CodeChef / Codeforces profiles, if applicable
+
+Certifications
+
+Internships / work experience
+
+Hackathons and achievements
+
+Final deployed URLs for Notely and Smilo
+
+Final project screenshots
+
+Professional photograph, if desired
+
+10. Portfolio Writing Rules
+
+Do not claim expertise in technologies that are still being learned.
+
+Keep Java + Spring Boot as the main technical identity.
+
+Show measurable project details whenever they are genuinely available.
+
+Clearly distinguish individual projects from team projects.
+
+Use screenshots and live demos to prove project work.
+
+Link each featured project to GitHub and, when available, a live deployment.
+
+Keep the portfolio concise and project-focused rather than listing every technology ever explored.
+
+Kavy Joshi — Portfolio Content Reference

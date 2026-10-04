@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Kavy Joshi Portfolio"
+description = "A personal portfolio for Kavy Joshi, a Java backend developer and B.Tech Computer Science student. Showcases his backend skills, featured projects, and GitHub profile with a modern anime-inspired Batman visual direction."
+version = "1.0.0"
+id = "artifacts/kavy-joshi-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21696
+
+[services.development]
+run = "pnpm --filter @workspace/kavy-joshi-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kavy-joshi-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/kavy-joshi-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21696"
+BASE_PATH = "/"
