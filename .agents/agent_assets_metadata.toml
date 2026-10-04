@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "fa4MpW9U_iYcp8Xs8QEgK"
+uri = "file://.agents/outputs/kavy-joshi-portfolio-website.zip"
+type = "unspecified"
+title = "Kavy Joshi portfolio website ZIP"
+description = "Production-ready static website export. Unzip and upload the contents to static hosting; an included README explains the package."
+logical_id = "4cadef88-c793-4d01-a842-cc76f3c9dee6"
+content_hash = "sha256:a3c434e00ea101713c69ec880fdeffd1a2d0f9a86316270db0b092f0b1d3ac24"
+size = 131066
+mtime_ms = 1791137330235
+storage_uri = "gcs://replit-rams-assets-sisko/rams/assets/repl:f97702e9-4fcb-4182-9043-55cd1d311077/4cadef88-c793-4d01-a842-cc76f3c9dee6/f01426a8-ca7e-4561-b793-ddd679295967"
+storage_version_token = "1791137340902539"
+content_type = "application/octet-stream"
